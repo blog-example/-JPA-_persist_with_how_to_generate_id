@@ -1,4 +1,4 @@
-package com.example.mapping.entity;
+package com.blog.persist.entity;
 
 import jakarta.persistence.*;
 import lombok.Getter;

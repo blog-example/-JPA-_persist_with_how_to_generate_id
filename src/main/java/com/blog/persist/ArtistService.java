@@ -1,7 +1,6 @@
-package com.example.mapping;
+package com.blog.persist;
 
-import com.example.mapping.entity.Artist;
-import com.example.mapping.entity.Member;
+import com.blog.persist.entity.Artist;
 import jakarta.persistence.EntityManager;
 import jakarta.persistence.PersistenceContext;
 import lombok.RequiredArgsConstructor;

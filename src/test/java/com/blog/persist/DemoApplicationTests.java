@@ -1,4 +1,4 @@
-package com.example.mapping;
+package com.blog.persist;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
